@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+recursive-include django_unused_model_inspector *.py
+prune tests
+

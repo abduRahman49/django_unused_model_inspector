@@ -1,0 +1,11 @@
+{
+  "accessed": [
+    {
+      "app": "testapp",
+      "member": "legacy_code",
+      "model": "Customer",
+      "type": "field"
+    }
+  ],
+  "schema_version": "unused-model-inspector-runtime/v1"
+}
