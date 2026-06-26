@@ -34,6 +34,9 @@ dev = [
   "ruff>=0.5"
 ]
 
+[project.urls]
+Homepage = "https://github.com/abduRahman49/django_unused_model_inspector"
+
 [tool.setuptools.packages.find]
 include = ["django_unused_model_inspector*"]
 
